@@ -607,6 +607,7 @@ overflow: hidden;
   color: #FFFFFF;
   display: inline-block;
   margin-bottom: 16px;
+  text-transform: uppercase;
 }
 
 .footer-contact-list {
