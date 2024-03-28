@@ -195,7 +195,7 @@ padding-bottom: 24px;
   margin: 0 auto;
   align-items: center;
   justify-content: space-between;
-  background-image: url(../images/people-office\ -min.jpg);
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ -min.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -539,14 +539,11 @@ overflow: hidden;
   background:#2e2f42;
 }
   
-/*.footer-container {    
+.footer-container {    
   display: flex;
   align-items: baseline;  
-  padding-top: 100px;
-  padding-bottom: 100px;
-  background-color: #2e2f42;
-
-}*/
+    
+}
 
 .footer-container-logo{  
   align-items: baseline; 
@@ -556,9 +553,9 @@ overflow: hidden;
 
 .footer-container-link {  
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: center;
-  flex-direction: row;
+  flex-direction: column;
   width: 208px;
   margin-left: 120px; 
 }
@@ -607,7 +604,7 @@ overflow: hidden;
   color: #FFFFFF;
   display: inline-block;
   margin-bottom: 16px;
-  text-transform: uppercase;
+  
 }
 
 .footer-contact-list {
