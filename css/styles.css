@@ -183,7 +183,7 @@ a {
 .header-address-link:focus {
     color: #404bbf;
 }
-/*================= HERO ==============*/
+/*================= HERO 1 ==============*/
 
 .hero {
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ -min.jpg);
@@ -237,7 +237,7 @@ a {
  background: #404bbf;
 }
 
-/*============ Features ===========*/ 
+/*============ Features 2 ===========*/ 
 
 .features {
   max-width: 1440px;
@@ -325,7 +325,7 @@ a {
   
 }
 
-/*============= Team =============*/
+/*============= Team 3 =============*/
 
 .team {
   max-width: 1440px;
@@ -358,7 +358,7 @@ a {
 }
 
 .team-item {
-/* width: calc((100% - 3 * 24px) / 4 );*/
+ width: calc((100% - 3 * 24px) / 4 );*/
  border-radius: 0px 0px 4px 4px;
  box-shadow: 0px 1px 6px
  rgba(46, 47, 66, 0.08),
@@ -382,10 +382,10 @@ a {
   padding-bottom: 32px;
 }
 
-.team-contact-item {
+/*.team-contact-item {
   width: 40px;
   height: 40px;
-}
+}*/
 .team-card-wrap {
   /*display: flex;
   align-items: center;
@@ -432,7 +432,7 @@ a {
   color: #434455;
 }
 
-/*================ Portfolio======= */
+/*================ Portfolio 4 ======= */
 
 .portfolio {
   max-width: 1440px;
@@ -536,7 +536,7 @@ overflow: hidden;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
  
-/*=============== Footer==========*/
+/*=============== Footer ==========*/
 
 .footer {
   max-width: 1440px;
