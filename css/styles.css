@@ -189,19 +189,17 @@ a {
 
 /*================= HERO Secion 1 ==============*/
 
-.hero {    
+.hero {
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ -min.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   max-width: 1440px;
   margin: 0 auto; 
-  
-  
+
 }
 
  .hero-wrap{
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ -min.jpg);
-  max-width: 1440px;
   padding-top: 188px;
   padding-bottom: 188px;
 }
