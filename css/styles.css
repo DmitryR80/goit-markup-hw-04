@@ -451,7 +451,6 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-top: 32px;
   margin-bottom: 8px;
 }
 
@@ -462,7 +461,6 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
   border-top: none;
-  margin-bottom: 32px;
 }
 .portfolio-text:hover .card-text-wrap {
   transform: translateY(0%);
